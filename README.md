@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Soy Ing. Electronico y de sistemas, asesor de procesos industriales.<br>Especialidad en Electronica/Mecatronica.<br>Actualmente me preparo para Full Stack.<br>
 
 
