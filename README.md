@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trabajo como Ing. en sistemas computacionales. Nivel Gerencial.<br>Soy Ing. Electronico, especialidad en Mecatronica.<br><br>Actualmente me preparo para Full Stack.<br><br>
+Soy Ing. Electronico y de sistemas, asesor de procesos industriales.<br>Especialidad en Electronica/Mecatronica.<br><br>Actualmente me preparo para Full Stack.<br><br>
 
 
 ## 🌐 Socials:
