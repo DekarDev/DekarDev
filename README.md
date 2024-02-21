@@ -1,4 +1,4 @@
-#![About Me:]
+#  ☕   About Me:
 I'm an Electronics and Systems Eng., specializing in industrial process consulting.<br>Expertise in Electronics/Mechatronics.<br>Currently preparing for Full Stack dev.<br>
 
 
