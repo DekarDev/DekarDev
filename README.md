@@ -1,5 +1,5 @@
 #  ☕   About Me:
-I'm an Electronics and Systems Eng.<br>Specializing in industrial process consulting.<br>Expertise in Electronics/Mechatronics.<br>Currently preparing for Full Stack dev.<br>
+🔹I'm an Electronics and Systems Eng.<br>🔸Specializing in industrial process consulting.<br>🔹Expertise in Electronics/Mechatronics.<br>🔸Currently preparing for Full Stack dev.<br>
 
 
 
@@ -16,4 +16,4 @@ I'm an Electronics and Systems Eng.<br>Specializing in industrial process consul
 ---
 [![](https://visitcount.itsvg.in/api?id=DekarDev&icon=8&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+👾
