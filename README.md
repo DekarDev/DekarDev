@@ -1,5 +1,7 @@
 #  About Me:
-Soy Ing. Electronico y de sistemas, asesor de procesos industriales.<br>Especialidad en Electronica/Mecatronica.<br>Actualmente me preparo para Full Stack.<br>
+I'm an Electronics and Systems Eng., specializing in industrial process consulting.
+Expertise in Electronics/Mechatronics.
+Currently preparing for Full Stack dev.
 
 
 ## 🌐 Socials:
