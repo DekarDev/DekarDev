@@ -1,6 +1,6 @@
 #  ☕   About Me:
+👤Name: Gerardo Gutierrez.<br>👤👤AKA: Dekar.<br>📍Location: North of México. <br> 📣 Idioms: Spanish & English.<br>
 🔹I'm an Electronics and Systems Eng.<br>🔸Specializing in industrial process consulting.<br>🔹Expertise in Electronics/Mechatronics.<br>🔸Currently preparing for Full Stack dev.<br>
-👤Name: Gerardo Gutierrez.<br>👤👤AKA: Dekar.<br>📍Location: North of México. <br> 📣 Idioms: Spanish & English.
 
 
 ## 🌐 Socials:
