@@ -96,12 +96,12 @@ My goal is to build practical tools with clear structure, clean logic, useful do
 
 ## 📊 GitHub Stats
 
-![Gerardo's GitHub stats] (https://github-readme-stats.vercel.app/api?username=DekarDev&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=false&count_private=false)
+![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DekarDev&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DekarDev&theme=github-dark-blue&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DekarDev&layout=compact&theme=github_dark&hide_border=true)
+
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=DekarDev&icon=8&color=3)
+
